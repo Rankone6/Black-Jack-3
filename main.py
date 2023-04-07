@@ -235,7 +235,6 @@ while play == "y":
 	print()
 #Not recalling 237-248 not sure why not....
 	if cash < 0:
-		print(f"Tewst {cash}.")
 		while cash<0:
 			
 			print("You need more cash..")
